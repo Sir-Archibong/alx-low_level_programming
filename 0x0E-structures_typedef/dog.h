@@ -30,5 +30,3 @@ char *_strcpy(char *dest, char *src);
 int _strlen(char *s);
 
 #endif /*DOG_H*/
-Footer
-© 2023 GitHub, Inc.
